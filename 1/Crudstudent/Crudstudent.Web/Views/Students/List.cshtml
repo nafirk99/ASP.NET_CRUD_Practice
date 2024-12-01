@@ -1,0 +1,27 @@
+﻿
+@model List<Crudstudent.Web.Models.Entities.Student>
+
+<h1>Students</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>name</td>
+            <td>Email</td>
+            <td></td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="Students" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
