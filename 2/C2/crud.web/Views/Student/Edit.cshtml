@@ -1,0 +1,33 @@
+﻿@model crud.web.Models.Student
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Student</h1>
+
+<form method="post">
+    <div class="mt-3">
+        <label class="form-label">Id</label>
+        <input type="text" class="form-control" asp-for="Id" readonly />
+    </div>
+    <div class="mt-3">
+        <label class="form-label">Name</label>
+        <input type="text" class="form-control" type="text" asp-for="Name" />
+    </div>
+    <div class="mt-3">
+        <label class="form-label">Email</label>
+        <input type="text" class="form-control" asp-for="Email"/>
+    </div>
+    <div class="mt-3">
+        <label class="form-label">Phone</label>
+        <input type="text" class="form-control" asp-for="Phone"/>
+    </div>
+    <div class="mt-3">
+        <input type="checkbox" class="form-check-input" asp-for="Subscribed" id="subscribed"/>
+        <label class="form-label" for="Subscribed">Subscribed</label>
+    </div>
+    <div>
+        <button type="submit" class="btn btn-success">Save</button>
+        <button type="submit" class="btn btn-danger" asp-controller="Student" asp-action="Delete">Delete</button>
+    </div>
+</form>
