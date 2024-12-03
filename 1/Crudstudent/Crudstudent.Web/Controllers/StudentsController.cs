@@ -76,5 +76,17 @@ namespace Crudstudent.Web.Controllers
             }
             return RedirectToAction("List");
         }
+
+        //[HttpPost]
+        public IActionResult DeleteById(Guid id)
+        {
+            var student = _dbContext.Students.Find(id);
+            if (student is not null)
+            {
+                _dbContext.Students.Remove(student);
+                 _dbContext.SaveChanges();
+            }
+            return RedirectToAction("List");
+        }
     }
 }

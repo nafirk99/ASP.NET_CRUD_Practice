@@ -7,12 +7,32 @@
       "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,22 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|solutionrelative:crudstudent.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98B60310-F048-45F8-98E5-72E8240425D8}|Crudstudent.Web\\Crudstudent.Web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\1\\crudstudent\\crudstudent.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Crudstudent.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Crudstudent.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwB8AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:08:30.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Views\\Students\\Edit.cshtml",
               "RelativeDocumentMoniker": "Crudstudent.Web\\Views\\Students\\Edit.cshtml",
@@ -74,38 +91,36 @@
               "RelativeToolTip": "Crudstudent.Web\\Views\\Students\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T09:48:23.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T09:48:23.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Add.cshtml",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Views\\Students\\Add.cshtml",
               "RelativeDocumentMoniker": "Crudstudent.Web\\Views\\Students\\Add.cshtml",
               "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Views\\Students\\Add.cshtml",
               "RelativeToolTip": "Crudstudent.Web\\Views\\Students\\Add.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAmwCIAAAAHAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T09:00:19.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T09:00:19.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "List.cshtml",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Views\\Students\\List.cshtml",
               "RelativeDocumentMoniker": "Crudstudent.Web\\Views\\Students\\List.cshtml",
               "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Views\\Students\\List.cshtml",
               "RelativeToolTip": "Crudstudent.Web\\Views\\Students\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-01T09:32:13.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "AddStudentViewModel.cs",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Models\\AddStudentViewModel.cs",
               "RelativeDocumentMoniker": "Crudstudent.Web\\Models\\AddStudentViewModel.cs",
@@ -113,8 +128,7 @@
               "RelativeToolTip": "Crudstudent.Web\\Models\\AddStudentViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:12:34.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T09:12:34.22Z"
             },
             {
               "$type": "Document",
@@ -124,14 +138,14 @@
               "RelativeDocumentMoniker": "Crudstudent.Web\\Controllers\\StudentsController.cs",
               "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "Crudstudent.Web\\Controllers\\StudentsController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAAJAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwFMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T08:57:06.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Models\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "Crudstudent.Web\\Models\\Entities\\Student.cs",
@@ -139,38 +153,37 @@
               "RelativeToolTip": "Crudstudent.Web\\Models\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:57:12.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T07:57:12.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Crudstudent.Web\\appsettings.json",
               "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\appsettings.json",
               "RelativeToolTip": "Crudstudent.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-01T08:37:03.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Crudstudent.Web\\Data\\ApplicationDbContext.cs",
               "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Crudstudent.Web\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T07:47:17.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Crudstudent.Web\\Views\\Home\\Privacy.cshtml",
@@ -178,12 +191,11 @@
               "RelativeToolTip": "Crudstudent.Web\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T07:39:11.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T07:39:11.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Crudstudent.Web\\Properties\\launchSettings.json",
@@ -196,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Crudstudent.Web\\Controllers\\HomeController.cs",
@@ -204,18 +216,17 @@
               "RelativeToolTip": "Crudstudent.Web\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T07:34:05.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T07:34:05.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Program.cs",
               "RelativeDocumentMoniker": "Crudstudent.Web\\Program.cs",
               "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\1\\Crudstudent\\Crudstudent.Web\\Program.cs",
               "RelativeToolTip": "Crudstudent.Web\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAkAAABNAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T07:33:23.427Z",
               "EditorCaption": ""
