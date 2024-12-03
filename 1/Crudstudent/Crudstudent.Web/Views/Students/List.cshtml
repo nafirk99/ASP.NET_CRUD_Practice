@@ -23,6 +23,8 @@
                     <form method="post" asp-controller="Students" asp-action="DeleteById" asp-route-id="@item.Id" style="display:inline;">
                         <button class="btn btn-danger" type="submit">Del</button>
                     </form>
+
+
                     <button type="submit" asp-controller="Students" asp-action="DeleteById" asp-route-id="@item.Id">DELETE</button>
                     <form method="get">
                         <a class="btn btn-danger" asp-controller="Students" asp-action="DeleteById" asp-route-id="@item.Id">Delete</a>

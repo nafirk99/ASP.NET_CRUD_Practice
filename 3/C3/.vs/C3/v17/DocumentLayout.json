@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\3\\c3\\crud.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|solutionrelative:crud.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\3\\c3\\crud.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|solutionrelative:crud.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\3\\c3\\crud.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|solutionrelative:crud.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\3\\c3\\crud.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|solutionrelative:crud.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\3\\c3\\crud.web\\models\\addviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|solutionrelative:crud.web\\models\\addviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\3\\c3\\crud.web\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|solutionrelative:crud.web\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\3\\c3\\crud.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|solutionrelative:crud.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\3\\c3\\crud.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|solutionrelative:crud.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|e:\\zgit backup repositories\\asp.net_crud_practice\\3\\c3\\crud.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A92D980-6CEB-4DFE-B5AF-8CAD1E12B2FA}|crud.web\\crud.web.csproj|solutionrelative:crud.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "crud.web\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "crud.web\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T10:09:36.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "crud.web\\Views\\Student\\List.cshtml",
+              "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "crud.web\\Views\\Student\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T09:55:57.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddViewModel.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Models\\AddViewModel.cs",
+              "RelativeDocumentMoniker": "crud.web\\Models\\AddViewModel.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Models\\AddViewModel.cs",
+              "RelativeToolTip": "crud.web\\Models\\AddViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:41:05.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "crud.web\\Views\\Student\\Add.cshtml",
+              "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "crud.web\\Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T09:40:30.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "crud.web\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "crud.web\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAUwEUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:37:34.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\appsettings.json",
+              "RelativeDocumentMoniker": "crud.web\\appsettings.json",
+              "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\appsettings.json",
+              "RelativeToolTip": "crud.web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T09:31:32.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Program.cs",
+              "RelativeDocumentMoniker": "crud.web\\Program.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Program.cs",
+              "RelativeToolTip": "crud.web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:31:29.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "crud.web\\Models\\Student.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Models\\Student.cs",
+              "RelativeToolTip": "crud.web\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:29:49.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "crud.web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\ZGit Backup Repositories\\ASP.NET_CRUD_Practice\\3\\C3\\crud.web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "crud.web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:28:39.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
