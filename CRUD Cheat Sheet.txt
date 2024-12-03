@@ -4,7 +4,15 @@
 
 2. Make DbContext Class : DbContext (ApplicationDbContext)
    a. Create Entity -- Students
-   b. Make DbSet<Student> Students in the ApplicationDbContext
+   b. Configure The DbContext
+    public class ApplicationDbContext : DbContext 
+    {
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) 
+        {
+        }
+        public DbSet<Student> Students { get; set; }
+    }
+   c. Make DbSet<Student> Students in the ApplicationDbContext
 
 3. Add ConnectionString in appsettings.json
    "ConnectionStrings": {
@@ -23,6 +31,7 @@
    dotnet ef database update --project EntityPractice2 --context ApplicationDbContext
 
 6. Create Controller
+   Inject _dbContext in Constructor
    [Get] Add()  | [Post] Add(viewModel Model) 
    [Get] List() | [Get] Edit(Guid id) | [Post] Edit(Student model)
    [Post] Delete(Student model) | DeleteById(Guid id)
